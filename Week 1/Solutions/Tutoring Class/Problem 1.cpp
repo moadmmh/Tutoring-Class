@@ -13,7 +13,7 @@ int main() {
         else
             cout<<"Upper case and Consonant"<<endl;
     }
-    else if(c>='A' && c<='Z'){
+    else if(c>='a' && c<='z'){
         if(c=='a' || c=='e' || c=='u' || c=='i' || c=='o')
             cout<<"Lower case and Vowel"<<endl;
         else
